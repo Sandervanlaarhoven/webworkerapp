@@ -1,3 +1,4 @@
+/* eslint-disable */
 // block for `time` ms, then return the number of loops we could run in that time:
 self.onmessage = (event) => {
   const time = event.data
